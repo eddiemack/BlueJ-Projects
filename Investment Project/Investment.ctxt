@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=money\ interest
+comment0.target=Investment(double,\ double)
+comment1.params=milestone
+comment1.target=void\ waitForBalance(double)
+comment2.params=
+comment2.target=int\ getYears()
+numComments=3

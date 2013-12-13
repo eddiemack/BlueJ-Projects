@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=amtRoaches
+comment0.target=RoachPopulation(int)
+comment0.text=\r\n\ Constructs\ the\ population\ of\ 10\ roaches.\r\n\ @param\ numRoaches\ The\ number\ of\ roaches.\r\n
+comment1.params=
+comment1.target=void\ spray()
+comment1.text=\r\n\ Spray\ the\ population\ of\ roaches\ with\ insecticide,\ reducing\ the\ population\ by\ 10%.\r\n
+comment2.params=
+comment2.target=void\ breed()
+comment2.text=\r\n\ Breeds\ the\ population\ of\ roaches,\ doubling\ their\ population.\r\n
+comment3.params=
+comment3.target=int\ getRoaches()
+comment3.text=\r\n\ Tells\ the\ user\ the\ number\ of\ roaches\ left.\r\n\ @return\ The\ population\ of\ roaches.\r\n
+numComments=4

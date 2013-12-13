@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=mag
+comment0.target=Earthquake(double)
+comment0.text=\r\n\ Constructs\ an\ earthquake.\r\n\ @param\ magnitude\ The\ magnitude\ of\ the\ earthquake.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment1.text=\r\n\ Gets\ the\ effects\ of\ the\ earthquake.\r\n\ @return\ The\ effects\ of\ the\ earthquake\r\n
+numComments=2

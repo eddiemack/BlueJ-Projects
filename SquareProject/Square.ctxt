@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=Square(double)
+comment0.text=\r\n\ Constructs\ the\ square.\r\n\ @param\ length\ The\ length\ of\ one\ side\ of\ the\ square.\r\n
+comment1.params=
+comment1.target=double\ getPerimeter()
+comment1.text=\r\n\ The\ perimeter\ of\ the\ square.\r\n\ @return\ The\ perimeter\ of\ the\ square.\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ The\ area\ of\ the\ square.\r\n\ @return\ The\ area\ of\ the\ square.\r\n
+comment3.params=
+comment3.target=double\ getDiagonal()
+comment3.text=\r\n\ The\ length\ of\ the\ diagonal\ of\ the\ square.\r\n\ @return\ The\ length\ of\ the\ diagonal\ of\ the\ square.\r\n
+numComments=4

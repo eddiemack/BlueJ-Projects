@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=aFirst\ aSecond
+comment0.target=Pair(double,\ double)
+comment0.text=\r\n\ Constructs\ a\ pair.\r\n\ @param\ aFirst\ the\ first\ value\ of\ the\ pair.\r\n\ @param\ aSecond\ the\ second\ value\ of\ the\ pair.\r\n
+comment1.params=
+comment1.target=double\ getSum()
+comment1.text=\r\n\ Computes\ the\ sum\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ sum\ of\ the\ first\ and\ second\ values.\r\n
+comment2.params=
+comment2.target=double\ getDifference()
+comment2.text=\r\n\ Computes\ the\ difference\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ difference\ of\ the\ first\ and\ second\ values.\r\n
+comment3.params=
+comment3.target=double\ getProduct()
+comment3.text=\r\n\ Computes\ the\ product\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ product\ of\ the\ first\ and\ second\ values.\r\n
+comment4.params=
+comment4.target=double\ getAverage()
+comment4.text=\r\n\ Computes\ the\ average\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ average\ of\ the\ first\ and\ second\ values.\r\n
+comment5.params=
+comment5.target=double\ getDistance()
+comment5.text=\r\n\ Computes\ the\ distance\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ distance\ of\ the\ first\ and\ second\ values.\r\n
+comment6.params=
+comment6.target=double\ getMaximum()
+comment6.text=\r\n\ Computes\ the\ maximum\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ maximum\ of\ the\ first\ and\ second\ values.\r\n
+comment7.params=
+comment7.target=double\ getMinimum()
+comment7.text=\r\n\ Computes\ the\ minimum\ of\ the\ values\ of\ this\ pair.\r\n\ @return\ the\ minimum\ of\ the\ first\ and\ second\ values.\r\n
+numComments=8

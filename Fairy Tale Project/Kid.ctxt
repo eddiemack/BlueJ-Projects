@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ keepGoingUntilWall()
+comment1.params=
+comment1.target=void\ collectAllBeepers()
+comment2.params=
+comment2.target=void\ faceNorth()
+comment3.params=
+comment3.target=void\ riseAboveIfThereIsALeftWall()
+comment4.params=
+comment4.target=boolean\ hasALeftWall()
+comment5.params=
+comment5.target=void\ turnRight()
+numComments=6

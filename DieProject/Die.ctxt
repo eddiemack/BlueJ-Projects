@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numSides
+comment0.target=Die(int)
+comment1.params=
+comment1.target=double\ getRoll()
+numComments=2

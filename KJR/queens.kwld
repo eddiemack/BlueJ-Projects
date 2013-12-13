@@ -1,0 +1,19 @@
+KarelWorld
+streets 10
+avenues 10
+eastwestwalls 8 8 8
+eastwestwalls 8 7 7
+eastwestwalls 8 6 6
+eastwestwalls 8 5 5
+eastwestwalls 8 4 4
+eastwestwalls 8 3 3
+eastwestwalls 8 2 2
+eastwestwalls 8 1 1
+northsouthwalls 8 1 1
+northsouthwalls 8 2 2
+northsouthwalls 8 3 3
+northsouthwalls 8 4 4
+northsouthwalls 8 5 5
+northsouthwalls 8 6 6
+northsouthwalls 8 7 7
+northsouthwalls 8 8 8

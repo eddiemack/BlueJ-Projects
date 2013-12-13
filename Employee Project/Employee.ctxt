@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=employeeName\ currentSalary
+comment0.target=Employee(java.lang.String,\ double)
+comment0.text=\r\n\ Constructs\ the\ employee.\r\n\ @param\ name\ Prompts\ the\ user\ to\ enter\ a\ name\ for\ the\ employee.\r\n\ @param\ currentSalary\ Prompts\ the\ user\ to\ enter\ the\ employee's\ starting\ salary.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Prompts\ user\ for\ a\ name\ for\ the\ employee.\r\n\ @return\ employeeName\ The\ name\ of\ the\ employee.\r\n
+comment2.params=
+comment2.target=double\ getSalary()
+comment2.text=\r\n\ Prompts\ the\ user\ for\ a\ salary\ for\ the\ employee.\r\n\ @return\ the\ current\ salary\ of\ the\ employee.\r\n
+comment3.params=byPercent
+comment3.target=void\ raiseSalary(double)
+comment3.text=\r\n\ Prompts\ the\ user\ to\ raise\ the\ employee's\ salary.\r\n\ @param\ byPercent\ Choose\ what\ percent\ by\ which\ you\ will\ increase\ the\ employee's\ salary.\r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=void\ move(int)
+comment1.params=
+comment1.target=void\ turnAround()
+comment2.params=
+comment2.target=void\ turnRight()
+numComments=3

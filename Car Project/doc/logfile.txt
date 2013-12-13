@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;C:\Programming\Car Project
+-d
+C:\Programming\Car Project\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Programming\Car Project\Car.java
+<---- end of javadoc command ---->
+Loading source file C:\Programming\Car Project\Car.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating C:\Programming\Car Project\doc\Car.html...
+C:\Programming\Car Project\Car.java:27: warning - @param argument "gasLeft" is not a parameter name.
+Generating C:\Programming\Car Project\doc\package-frame.html...
+Generating C:\Programming\Car Project\doc\package-summary.html...
+Generating C:\Programming\Car Project\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Programming\Car Project\doc\allclasses-frame.html...
+Generating C:\Programming\Car Project\doc\allclasses-noframe.html...
+Generating C:\Programming\Car Project\doc\index.html...
+Generating C:\Programming\Car Project\doc\stylesheet.css...
+1 warning

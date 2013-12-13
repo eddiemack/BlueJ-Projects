@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DataSet()
+comment1.params=number
+comment1.target=void\ add(double)
+comment2.params=
+comment2.target=double\ getAverage()
+comment3.params=
+comment3.target=double\ getMaximum()
+numComments=4

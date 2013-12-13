@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=height\ diameter
+comment0.target=SodaCan(double,\ double)
+comment0.text=\r\n\ Constructs\ the\ can.\r\n\ @param\ height\ The\ height\ of\ the\ can\r\n\ @param\ diameter\ The\ diameter\ of\ the\ can.\r\n
+comment1.params=
+comment1.target=double\ getVolume()
+comment1.text=\r\n\ The\ volume\ of\ the\ can.\r\n
+comment2.params=
+comment2.target=double\ getSurfaceArea()
+comment2.text=\r\n\ The\ surface\ area\ of\ the\ can.\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=QuadraticEquation(double,\ double,\ double)
+comment0.text=\r\n\ Constructs\ the\ quadratic\ equation.\r\n\ @param\ a\ The\ first\ variable\ in\ the\ equation.\r\n\ @param\ b\ The\ second\ variable\ in\ the\ equation.\r\n\ @param\ c\ The\ third\ variable\ in\ the\ equation.\r\n
+comment1.params=
+comment1.target=double\ getSolution1()
+comment1.text=\r\n\ Gets\ the\ solution\ using\ the\ quadratic\ formula.\r\n
+comment2.params=
+comment2.target=double\ getSolution2()
+comment2.text=\r\n\ Gets\ the\ solution\ using\ the\ quadratic\ formula.\r\n
+comment3.params=
+comment3.target=boolean\ hasSolutions()
+comment3.text=\r\n\ Returns\ true\ if\ the\ discriminant\ is\ positive\ or\ false\ if\ the\ discriminant\ is\ negative.\r\n
+numComments=4

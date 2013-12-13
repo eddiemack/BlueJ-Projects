@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ moveMile()
+comment1.params=
+comment1.target=void\ turnRight()
+comment2.params=
+comment2.target=void\ turnAround()
+comment3.params=
+comment3.target=void\ spin360()
+comment4.params=
+comment4.target=void\ moveDiagonally()
+comment5.params=
+comment5.target=void\ moveRandomly()
+numComments=6

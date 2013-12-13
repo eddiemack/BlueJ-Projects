@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fuelEfficiency
+comment0.target=Car(double)
+comment0.text=\r\n\ Constructs\ the\ car.\r\n\ @param\ fuelEfficiency\ Gives\ the\ MPG\r\n
+comment1.params=amountGas
+comment1.target=void\ addGas(double)
+comment1.text=\r\n\ Adds\ gas\ to\ the\ car\r\n\ @param\ gasLeft\ Amount\ of\ gas\ left\ in\ car\r\n
+comment2.params=miles
+comment2.target=void\ drive(double)
+comment2.text=\r\n\ Drives\ the\ car\ however\ many\ miles\ the\ user\ wants,\ as\ you\ drive,\ it\ reduces\ the\ amount\ of\ gas\ in\ the\ gas\ tank\r\n\ @param\ miles\ \#\ of\ miles\ the\ car\ will\ drive\r\n
+comment3.params=
+comment3.target=double\ getGasInTank()
+comment3.text=\r\n\ Shows\ how\ much\ gas\ is\ left\ in\ the\ car\r\n\ @return\ how\ much\ gas\ is\ left\ in\ the\ tank\r\n
+numComments=4
