@@ -22,7 +22,7 @@ public class Car
     }
     /**
      * Adds gas to the car
-     * @param gasLeft Amount of gas left in car
+     * @param amountGas Amount of gas to add
      */
     public void addGas (double amountGas)
     {
