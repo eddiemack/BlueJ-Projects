@@ -42,7 +42,7 @@ public class Car
      * Shows how much gas is left in the car
      * @return how much gas is left in the tank
      */
-    public double getGasInTank ()
+    public double getGasLevel ()
     {
         return (gasLevel);
     }
