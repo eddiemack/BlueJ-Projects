@@ -17,7 +17,6 @@ public class CarMain
         System.out.println ("How many miles do you want to drive?");
         milesDriven = keyboard.nextDouble();
         fiesta.drive(milesDriven);
-        gallonsOfGas = gallonsOfGas - (milesDriven / fuelEfficiency);
-        System.out.println ("You have " + gallonsOfGas + " gallons of gas left.");
+        System.out.println ("You have " + fiesta.getGasLevel() + " gallons of gas left.");
     }
 }
