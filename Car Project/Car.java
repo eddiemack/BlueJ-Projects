@@ -44,6 +44,11 @@ public class Car
      */
     public double getGasLevel ()
     {
-        return (gasLevel);
+        double result;
+        result = gasLevel;
+        if (result < 0) {
+            result = 0;
+        }
+        return (result);
     }
 }
