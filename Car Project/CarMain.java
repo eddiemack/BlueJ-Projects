@@ -7,6 +7,7 @@ public class CarMain
         Scanner keyboard = new Scanner (System.in);
         double fuelEfficiency;
         double gallonsOfGas;
+        double milesToDrive;
         double milesDriven;
         System.out.println ("What is the fuel efficiency of your car?");
         fuelEfficiency = keyboard.nextDouble();
@@ -15,8 +16,9 @@ public class CarMain
         gallonsOfGas = keyboard.nextDouble();
         fiesta.addGas(gallonsOfGas);
         System.out.println ("How many miles do you want to drive?");
-        milesDriven = keyboard.nextDouble();
-        fiesta.drive(milesDriven);
+        milesToDrive = keyboard.nextDouble();
+        milesDriven = fiesta.drive(milesToDrive);
+        System.out.println ("You drove " + milesDriven + " miles.");
         System.out.println ("You have " + fiesta.getGasLevel() + " gallons of gas left.");
     }
 }
