@@ -5,6 +5,6 @@ public class CarTester
         Car challenger = new Car (15);
         challenger.addGas (30);
         challenger.drive (15);
-        System.out.println (challenger.getGasInTank());
+        System.out.println (challenger.getGasLevel());
     }
 }
