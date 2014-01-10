@@ -22,7 +22,7 @@ public class Car
     }
     /**
      * Adds gas to the car
-     * @param gasLeft Amount of gas left in car
+     * @param amountGas Amount of gas to add
      */
     public void addGas (double amountGas)
     {
@@ -31,19 +31,49 @@ public class Car
     
     /**
      * Drives the car however many miles the user wants, as you drive, it reduces the amount of gas in the gas tank
-     * @param miles # of miles the car will drive
+     * @param miles # of miles the car will attempt to drive
+     * @return number of miles actually driven
      */
-    public void drive (double miles)
+    public double drive (double miles)
     {
-        gasLevel = gasLevel - (miles / mpg);
+        double result;
+        
+        double maximumDistance;
+        double intendedDistance;
+        double actualDistance;
+        
+        maximumDistance = getGasLevel() * mpg;
+        if (maximumDistance < 0) {
+            maximumDistance = 0;
+        }
+        
+        intendedDistance = miles;
+        if (intendedDistance < 0) {
+            intendedDistance = 0;
+        }
+        
+        actualDistance = intendedDistance;
+        if (intendedDistance > maximumDistance) {
+            actualDistance = maximumDistance;
+        }
+        
+        gasLevel -= (actualDistance / mpg);
+        result = actualDistance;
+        
+        return result;
     }
     
     /**
      * Shows how much gas is left in the car
      * @return how much gas is left in the tank
      */
-    public double getGasInTank ()
+    public double getGasLevel ()
     {
-        return (gasLevel);
+        double result;
+        result = gasLevel;
+        if (result < 0) {
+            result = 0;
+        }
+        return (result);
     }
 }
